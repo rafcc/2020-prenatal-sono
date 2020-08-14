@@ -1,5 +1,5 @@
 # 2020-prenatal-sono
-This project provides supplementary code for JACC paper.
+This project provides supplementary code for academic paper.
 
 ##  Requirements
 This program has been verified under the following conditions.
